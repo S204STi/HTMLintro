@@ -1,0 +1,27 @@
+body {
+  float: left;
+}
+
+.odd {
+   font-weight: bold;
+}
+
+.even {
+  font-style: italic;
+}
+
+video {
+  height: 480px;
+  width: 480px;
+}
+
+footer {
+  padding-left: 24px;
+  height: 60px;
+  width: 60px;
+}
+
+.galv {
+  height: auto;
+  width: auto;
+}
